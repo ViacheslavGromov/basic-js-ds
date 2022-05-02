@@ -33,4 +33,3 @@ class Stack {
 module.exports = {
   Stack
 };
-// npm run test ./test/stack.test.js
